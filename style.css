@@ -1,0 +1,93 @@
+h1, section{
+    width: 60rem; /* 960px (960 / 16*/
+    margin: 1.5rem auto; /* (24px / 16) auto*/
+}
+
+body{
+    width: 100%; /* 16px, 1rem*/
+    line-height: 1.5; /* (1.5 / 16px = 24px)*/
+    
+    /* Create you grid*/
+    /* background-image: linear-gradient(#39B7CD 1px, transparent 1px);
+    background-size: auto 1rem; */
+}
+    /*Typographic Scale*/
+    /* 12, 14, 16, 18, 21, 24, 36, 48, 60, 72
+    Multipliers of 24
+    /*24, 48, 72, 96*/
+ /*==========================Styles====================*/
+
+ h1{
+     font-family: 'Alfa Slab One', cursive;
+     font-size: 3rem; /*(48px /16px)*/
+     line-height: 4.5rem; /*(72px/16px)*/
+     text-align: center;
+     margin-bottom: 1.5rem; /*(24px / 16px) */
+     color: #F0B7A4;
+ }
+ .fable-one h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 2.25rem ; /* (36px / 16px)*/
+    line-height: 3rem; /*48px / 16px*/
+    margin-bottom: 1.5rem;
+    margin-top: 3rem;
+    color: #F18c8E;
+ }
+ .fable-one p{
+    font-family: 'Source Sans Pro', Sans-Serif;
+    font-size: 1rem;
+  
+ }
+.fable-two h2{
+    font-family: 'Ovo', serif;
+    font-size: 1.5rem;
+    line-height:1.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: 3rem;
+    color: #568EA6;
+   
+}
+
+.fable-two p{
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 1rem;
+    
+}
+.fable-three h2{
+    font-family: 'Bree Serif', serif;
+    font-size: 1.3125;
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    color: #f0737f;
+   
+
+}
+.fable-three p{
+    font-family: 'Alegreya', serif;
+    font-size: 1rem;
+   
+    
+}
+
+.fable-four h2{
+    font-family: 'Shrikhand', cursive;
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    color: #b797d6;
+   
+}
+.fable-four p{
+    font-family: 'Fanwood Text', serif;
+    font-size: 1rem;
+
+}
+p{
+  margin-bottom: 1.5rem;  
+  max-width: 60ch;
+  margin-top: 1.5rem;
+
+
+}
